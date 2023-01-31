@@ -1,0 +1,9 @@
+﻿  Dealer.cpp
+C:\Users\Fabia\source\repos\CECS-2223-proyect\CECS-2223-proyect\Dealer.cpp(6,42): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\Fabia\source\repos\CECS-2223-proyect\CECS-2223-proyect\Dealer.cpp(14,45): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Fabia\source\repos\CECS-2223-proyect\CECS-2223-proyect\Dealer.cpp(26,42): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\Fabia\source\repos\CECS-2223-proyect\CECS-2223-proyect\Dealer.cpp(34,45): warning C4018: '>': signed/unsigned mismatch
+  finalproject.cpp
+  Generating Code...
+C:\Users\Fabia\source\repos\CECS-2223-proyect\CECS-2223-proyect\finalproject.cpp(67): warning C4715: 'execute': not all control paths return a value
+  CECS-2223-proyect.vcxproj -> C:\Users\Fabia\source\repos\CECS-2223-proyect\Debug\CECS-2223-proyect.exe
